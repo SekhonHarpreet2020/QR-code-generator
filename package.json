@@ -1,0 +1,14 @@
+{
+  "name": "qrcode-generator",
+  "version": "1.0.0",
+  "description": "generate qr codes for URL entered",
+  "main": "index.js",
+  "type": "module",
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "author": "Harpreet Kaur",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  }
+}
